@@ -1,0 +1,34 @@
+.navbar {
+  backdrop-filter: blur(8px);
+}
+
+.nav-link {
+  color: #f8f9fa !important;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #ffc107 !important;
+}
+
+.nav-link svg {
+  transition: fill 0.3s ease;
+}
+
+.nav-link:hover svg {
+  fill: #ffc107;
+}
+
+
+.btn-warning {
+  font-weight: 600;
+}
+
+.btn-outline-warning:hover {
+  color: black;
+}
+
+.nav-link:hover {
+  color: #ffc107 !important;
+}
